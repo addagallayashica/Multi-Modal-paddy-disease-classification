@@ -6,6 +6,23 @@ Our project focuses on classifying paddy diseases using deep learning. We use pa
 
 We are implementing and comparing four models: Custom CNN, MobileNetV2, EfficientNet-B0, and Swin Transformer-Tiny. We are also exploring whether adding rice variety and plant age information along with images can improve classification performance.
 
+## Dataset Access
+
+The Paddy Doctor images are not stored in this repository because of their size.
+Download them from our shared Google Drive folder:
+
+[Dataset (Google Drive)](https://drive.google.com/drive/folders/18SXbbqILHSTOJSbb-GVHs_VmMb8yhm-M?usp=sharing)
+
+The folder contains:
+- `train/` and `test/` – images organised by class (13 classes)
+- `test_images/` – test set images
+- `swin_project/` – Swin Transformer scripts (`model.py`, `train.py`, `dataset.py`, etc.)
+
+### Using it in Google Colab
+1. Open the Drive link and click **Add shortcut to Drive** (or copy the folder into your My Drive).
+2. Make sure it sits at `MyDrive/mini project train and test/`.
+3. If you use a different location, update `PROJECT_DIR` and the train/test paths in the notebooks.
+
 ## Objectives
 
 - Classify paddy diseases using deep learning.
