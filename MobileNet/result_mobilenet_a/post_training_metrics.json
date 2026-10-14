@@ -1,0 +1,22 @@
+{
+  "model": "MobileNet (Transfer Learning)",
+  "actual_epochs": 75,
+  "best_epoch": 70,
+  "best_validation_loss": 0.22855636477470398,
+  "best_validation_accuracy": 0.929142415523529,
+  "test_loss": 0.23089680075645447,
+  "test_accuracy": 0.9290692806243896,
+  "class_count": 13,
+  "training_samples": 11034,
+  "validation_samples": 2752,
+  "test_samples": 2439,
+  "training_time_seconds": 22780.8,
+  "fine_tune_layers": 24,
+  "max_epochs": 75,
+  "head_learning_rate": 0.001,
+  "fine_tune_learning_rate": 1e-05,
+  "head_epochs": 15,
+  "batch_size": 32,
+  "image_size": "256x256x3",
+  "patience": 10
+}

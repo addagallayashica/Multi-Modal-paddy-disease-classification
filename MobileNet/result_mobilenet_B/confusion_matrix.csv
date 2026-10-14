@@ -1,0 +1,14 @@
+,bacterial_leaf_blight,bacterial_leaf_streak,bacterial_panicle_blight,black_stem_borer,blast,brown_spot,downy_mildew,hispa,leaf_roller,normal,tungro,white_stem_borer,yellow_stem_borer
+bacterial_leaf_blight,85,0,0,0,1,4,2,0,0,5,1,0,0
+bacterial_leaf_streak,1,70,0,1,1,0,0,0,0,1,1,1,0
+bacterial_panicle_blight,0,0,60,0,0,0,0,0,0,0,0,2,6
+black_stem_borer,1,0,1,62,0,0,1,0,1,2,0,5,3
+blast,6,2,0,2,279,19,6,5,9,9,12,0,4
+brown_spot,5,3,1,0,3,158,10,3,1,3,2,0,0
+downy_mildew,1,0,1,0,0,1,120,6,0,0,1,1,0
+hispa,11,5,1,0,1,13,17,241,6,18,4,6,0
+leaf_roller,7,4,0,0,7,8,2,12,106,2,2,14,1
+normal,1,0,0,0,2,6,0,6,1,341,3,1,0
+tungro,9,3,0,0,10,10,9,3,0,15,229,4,1
+white_stem_borer,0,0,2,2,0,3,3,0,0,1,0,171,9
+yellow_stem_borer,0,1,1,0,0,2,0,2,0,0,1,2,106
