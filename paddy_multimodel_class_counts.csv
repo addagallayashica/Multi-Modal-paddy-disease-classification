@@ -1,0 +1,14 @@
+disease_class,CNN,CNN + Metadata,MobileNet,MobileNet + Metadata
+bacterial_leaf_blight,171,12,167,160
+bacterial_leaf_streak,136,24,131,68
+bacterial_panicle_blight,123,307,126,160
+black_stem_borer,88,37,89,55
+blast,555,467,563,478
+brown_spot,316,318,328,422
+downy_mildew,209,108,212,253
+hispa,535,269,509,362
+leaf_roller,27,135,11,52
+normal,551,575,556,587
+tungro,356,456,383,419
+white_stem_borer,303,736,290,332
+yellow_stem_borer,99,25,104,121

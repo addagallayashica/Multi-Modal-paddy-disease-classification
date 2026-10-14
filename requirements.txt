@@ -1,0 +1,7 @@
+tensorflow>=2.21,<2.22
+numpy>=2.1,<3
+pandas>=2.2,<3
+opencv-python>=4.10,<5
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+pydot>=3.0,<4

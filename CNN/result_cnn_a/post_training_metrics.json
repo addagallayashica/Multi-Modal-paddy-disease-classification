@@ -1,0 +1,12 @@
+{
+  "actual_epochs": 74,
+  "best_epoch": 59,
+  "best_validation_loss": 0.264118492603302,
+  "best_validation_accuracy": 0.9167878031730652,
+  "test_loss": 0.2728065252304077,
+  "test_accuracy": 0.9143091440200806,
+  "class_count": 13,
+  "training_samples": 11035,
+  "validation_samples": 2752,
+  "test_samples": 2439
+}
